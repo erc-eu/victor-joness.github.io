@@ -8,8 +8,6 @@ margin: 0;
 	transition: .3s;
 }
 h1{
-	max-width: 100%;
-	height: 100%;
 	font-size: 10vw;
 	float: center;
 }
