@@ -7,7 +7,7 @@ margin: 0;
 	background-color: darkturquoise;
 	transition: .3s;
 }
-div#center{
+header{
     border-top: 15px;
     border-style: solid;
     border-color: rgb(50, 50, 167);
